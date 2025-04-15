@@ -1,37 +1,44 @@
-## Análise de Vendas e Desempenho das Lojas
 
-Este projeto tem como objetivo analisar os dados de vendas e desempenho de quatro lojas, fornecendo insights sobre o faturamento, a média de avaliação e o custo médio do frete.
+## Propósito da Análise
 
-## Funcionalidades
+O propósito desta análise é avaliar o desempenho de quatro lojas em termos de faturamento, média de avaliação e custo médio do frete, produto mais e menos vendidos. fornecendo insights para melhorar o desempenho das lojas.
 
-- Análise do faturamento das lojas;
-- Cálculo da média de avaliação das lojas;
-- Cálculo do custo médio do frete das lojas;
-- Geração de gráficos para visualizar os dados.
+## Estrutura do Projeto
 
-## Dados Utilizados
+- notebook.ipynb: Notebook Jupyter contendo a análise dos dados;
+- README.md: Arquivo de documentação do projeto.
 
-- Faturamento das lojas;
-- Média de avaliação das lojas;
-- Custo médio do frete das lojas.
+## Exemplos de Gráficos e Insights Obtidos
 
-## Tecnologias Utilizadas
+- Gráfico de pizza mostrando a distribuição do faturamento entre as lojas;
+- Gráfico de barras comparando o faturamento das lojas;
+- Gráfico de linhas mostrando a média de avaliação das lojas;
+- Gráfico de barras comparando o custo médio do frete das lojas.
 
-- Python;
-- Pandas;
-- Matplotlib.
+## Insights obtidos:
 
-## Objetivos
+- A loja 3 apresentou o melhor desempenho em termos de faturamento e média de avaliação;
+- A loja 1 apresentou o pior desempenho em termos de faturamento e média de avaliação.
 
-- Identificar a loja com melhor e pior desempenho;
-- Analisar os fatores que contribuem para o desempenho das lojas;
-- Fornecer insights para melhorar o desempenho das lojas.
-
-## Resultados
+##  Resultados
 
 - A loja 3 apresentou o melhor desempenho em termos de faturamento e média de avaliação;
 - A loja 1 apresentou o pior desempenho em termos de faturamento e média de avaliação;
 - O custo médio do frete variou entre as lojas, com a loja 4 apresentando o menor custo.
+
+
+## CInstruções para Executar o Notebook
+
+1. Instale as bibliotecas necessárias: pandas e matplotlib;
+2. Abra o notebook notebook.ipynb no Jupyter Notebook;
+3. Execute as células do notebook para carregar os dados e gerar os gráficos;
+4. Visualize os gráficos e insights obtidos.
+
+## Requisitos
+
+- Python 3.x;
+- Jupyter Notebook;
+- Bibliotecas pandas e matplotlib.
 
 ## Conclusão
 
